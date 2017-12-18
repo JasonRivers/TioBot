@@ -45,8 +45,8 @@ public class TioBot {
             return;
         }
 
-        File config = new File(dir, "config.json");
-        File roomStates = new File(dir, "rooms.json");
+        File config = new File(dir, "/config/config.json");
+        File roomStates = new File(dir, "/config/rooms.json");
 
         if (!config.exists()) {
             System.out.println("The config.json file could not be found.");
