@@ -3,9 +3,9 @@ package com.gmail.socraticphoenix.tiobot;
 import com.gmail.socraticphoenix.tioj.Tio;
 import com.gmail.socraticphoenix.tioj.TioResponse;
 import com.gmail.socraticphoenix.tioj.TioResult;
-import fr.tunaki.stackoverflow.chat.Room;
-import fr.tunaki.stackoverflow.chat.User;
-import fr.tunaki.stackoverflow.chat.event.MessagePostedEvent;
+import org.sobotics.chat.Room;
+import org.sobotics.chat.User;
+import org.sobotics.chat.event.MessagePostedEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
 

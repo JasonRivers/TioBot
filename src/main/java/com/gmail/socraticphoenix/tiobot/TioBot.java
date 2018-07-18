@@ -1,10 +1,10 @@
 package com.gmail.socraticphoenix.tiobot;
 
-import fr.tunaki.stackoverflow.chat.ChatHost;
-import fr.tunaki.stackoverflow.chat.ChatOperationException;
-import fr.tunaki.stackoverflow.chat.Room;
-import fr.tunaki.stackoverflow.chat.StackExchangeClient;
-import fr.tunaki.stackoverflow.chat.event.EventType;
+import org.sobotics.chat.ChatHost;
+import org.sobotics.chat.ChatOperationException;
+import org.sobotics.chat.Room;
+import org.sobotics.chat.StackExchangeClient;
+import org.sobotics.chat.event.EventType;
 import org.json.JSONArray;
 import org.json.JSONObject;
 

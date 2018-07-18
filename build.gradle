@@ -44,7 +44,7 @@ repositories {
 dependencies {
     library "org.json:json:20171018"
     library "com.github.SocraticPhoenix:TioJ:master-SNAPSHOT"
-    library "fr.tunaki.stackoverflow:chatexchange:1.1.1"
+    library "org.sobotics:chatexchange:2.0.0"
 }
 //End Repositories and Dependencies
 
